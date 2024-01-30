@@ -2,12 +2,15 @@
 
 ## About The Project
 
-Fullstack blog project in which user can add blog posts, no registration system in this project. Project was made to learn EJS.
+Fullstack blog project in which user can add, edit and remove blog posts after signing in from hidden admin page.
 
 ## Built with
 - HTML
 - CSS
 - JavaScript
 - EJS
+- NodeJS
+- ExpressJS
+- MongoDB
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
